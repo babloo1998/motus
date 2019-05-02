@@ -1,0 +1,49 @@
+.form{
+    width: 40%;
+    margin: auto;
+}
+.checkbox{
+    width: 10%;
+    margin-top: 25px;
+    height: 18px;
+}
+
+
+input{
+    width: 100%;
+    border: 1px solid #ccc;
+}
+p,span{
+    font-size: 18px;
+    margin: 0px;
+    padding-top: 15px;
+    text-align: left;
+}
+h2{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 50px;
+    border-bottom: 1px solid #000;
+}
+.select-menu,.date-picker{
+    width: 100%;
+    border: 1px solid #ccc;
+    background: transparent;
+    text-align: left;
+    height: 30px;
+}
+.select-menu-small{
+    width: 20%;
+    display: inline-block;
+    height: 30px;
+    border: 1px solid #ccc;
+    background: transparent;
+}
+.zip-input{
+    width: 76%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+
